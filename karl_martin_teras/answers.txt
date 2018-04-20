@@ -1,0 +1,14 @@
+How many commits have been made in this repository?
+11
+
+What is the SHA-1 hash of the last commit that changed the line containing the <title> tag in the index.html file?
+468f9e1fd20e5e591e9265dd04056d7a6399cb12
+
+How many different commits can you see in the blame output for index.html?
+4
+
+All of the lines in style.css have stayed the same since the beginning of the repository, except one. What is that line
+4th line: background: white;
+
+First bad commit for image.png
+87964f5c57170cfd07418a981cd491491cc063dd
