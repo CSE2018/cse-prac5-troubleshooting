@@ -5,3 +5,4 @@ The amount of commits of this repo is constantly rising.
 468f9e1f
 I see 4 different commits
 Line 4 is modified in style.css
+bcdb5a5 is the first bad commit
