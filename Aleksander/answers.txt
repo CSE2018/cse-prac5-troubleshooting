@@ -1,0 +1,30 @@
+Tracing changes
+
+1. git rev-list --all --count
+11
+
+2.468f9e1f
+
+3. A lot of duplicates, but unique ones are 4
+df8b564
+468f9e1f
+bcdb5a54
+343f8655
+
+4. after git blame style.css, the only line that did not have the ^ symbol was 4
+
+
+Finding the source of an issue
+
+6. not sure if if I did this one right.
+At first I used git bisect start, git bisect good 87964f5 because that was the commit that added the image.png, $
+The first "bad" commit was e485686
+
+Reason why I think I did this wrong is because the very first images were grey, and only at 468f9e1 was the imag$
+
+
+Conflicts and resolutions
+
+
+
+
