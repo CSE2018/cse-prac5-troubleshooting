@@ -1,0 +1,8 @@
+1. 11 commits have been made in this repo.
+
+2. SHA-1 hash for the commit that changed the line containing <title> is  SHA-1 hash of the commit that changed themline containing <title> tag is 468f9e1fd20e5e591e9265dd04056d7a6399cb12
+3.
+
+3. I can see 4 different commits in the blame index.html
+4. Only line is that is changed, is the line contain words "background: white;"
+5. First "bad" commit's SHA-1 hash is 87964f5c57170cfd07418a981cd491491cc063dd
