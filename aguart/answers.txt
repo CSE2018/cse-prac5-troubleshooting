@@ -1,0 +1,8 @@
+How many commits have been made in this repository? 11
+What is the SHA-1 hash of the last commit that changed the line containing the <title> tag in the index.html file? 468f9e1f
+How many different commits can you see in the blame output for index.html? 4
+All of the lines in style.css have stayed the same since the beginning of the repository, except one. What is that line? line 4 - background: white;
+
+Write the SHA-1 hash of the first "bad" commit that you found into your answers.txt file. Here it is - 4a7324c
+
+
