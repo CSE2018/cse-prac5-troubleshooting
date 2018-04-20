@@ -1,3 +1,4 @@
 1) There are 16 commits except my own. However, it seems that there were only 10 created by teacher.
 2) 468f9e1f
+3) 4th line - background: white
 
