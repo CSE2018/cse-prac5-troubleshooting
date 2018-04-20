@@ -1,0 +1,25 @@
+    How many commits have been made in this repository?
+    11
+	
+	
+	What is the SHA-1 hash of the last commit that changed the line containing the <title> tag in the index.html file?
+    
+	468f9e1f
+	
+	
+	How many different commits can you see in the blame output for index.html?
+    
+	6 different commits, 15 lines at all
+	
+	
+	
+	All of the lines in style.css have stayed the same since the beginning of the repository, except one. What is that line? 
+	 
+	background: white;
+	
+	
+	
+	87964f5c57170cfd07418a981cd491491cc063dd is the first bad commit
+commit 87964f5c57170cfd07418a981cd491491cc063dd
+Author: Stepan Bolotnikov <stjoopa@gmail.com>
+Date:   Wed Apr 18 18:56:43 2018 +0300
