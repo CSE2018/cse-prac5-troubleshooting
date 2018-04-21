@@ -1,0 +1,11 @@
+1)How many commits have been made in this repository?
+100 commits
+2)What is the SHA-1 hash of the last commit that changed the line containing the <title> tag in the index.html file?
+468f9e1f
+3)How many different commits can you see in the blame output for index.html?
+4 different commits
+4)All of the lines in style.css have stayed the same since the beginning of the repository, except one. What is that line?
+When I got to the task, none of the lines had the "^" symbol since someone had restored the file.
+5)First bad commit:
+After "git bisect good df8b564" the picture was light-purple and not black
+6b3dc7334146ed3a9ade36c876639bad15b51f32 was where it turned black.
