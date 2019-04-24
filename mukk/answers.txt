@@ -1,0 +1,6 @@
+1.	24 commits
+2.	468f9e1f
+3.	4 different commits
+4.	background: white;
+
+SHA-1 of first bad commit: 4a7324c4f6aa289c6a9585e850d5e2bc8d2308f7
