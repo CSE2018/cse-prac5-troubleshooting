@@ -1,0 +1,7 @@
+Andry Kõre answers
+
+1. 29 commits
+2. 468f9e1f
+3. 4 different commits
+4. Line nr. 4 4a7324c4 (Stepan Bolotnikov 2018-04-18 18:57:44 +0300  4)   background: white;
+5. 87964f5c57170cfd07418a981cd491491cc063dd is the first bad commit
