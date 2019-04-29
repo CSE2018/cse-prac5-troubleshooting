@@ -1,0 +1,27 @@
+1. How many commits have been made in this repository?
+
+34.
+
+
+2. What is the SHA-1 hash of the last commit that 
+   changed the line containing the <title> tag in the index.html file?
+
+468f9e1f.
+
+
+3. How many different commits can you see in the blame output for index.html?
+
+4 different commits:
+	df8b564,
+	468f9e1f,
+	bcdb5a54,
+	343f8655.
+
+
+4. All of the lines in style.css have stayed the same since the beginning of the repository, 
+   except one. What is that line?
+Line 4 - "background: white;" by Stepan Bolotnikov, 2018-04-18 18:57:44.
+
+
+SHA-1 of the first commit where image.png was no longer black:
+385f3840c78cec6805b999d2ba76ee61b1d6633e
