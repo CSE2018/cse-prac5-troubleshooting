@@ -7,3 +7,4 @@ Erik Mukk
 Andry Kõre
 Ralf Tambets
 Tanel Marran
+Krister Looga
