@@ -1,0 +1,6 @@
+1) Total of 38 commits at this moment 
+2) df8b5649c22e2596b8066375417f0d17aed55748
+3) 4
+4) 4a7324c4 (Stepan Bolotnikov 2018-04-18 18:57:44 +0300  4)   background: white;
+
+5) First bad commit that I found: 0a311b534a4d2c51c3e4c442ed15853fc15bcaf3

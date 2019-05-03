@@ -8,3 +8,5 @@ Andry Kõre
 Ralf Tambets
 Tanel Marran
 Martti Kakk
+Krister Looga
+Hanna Tagen
