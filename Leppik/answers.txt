@@ -1,0 +1,8 @@
+1. 99 commits
+2. 468f9e1fd20e5e591e9265dd04056d7a6399cb12
+3. 15 commits
+4. I can see two lines that have not stayed the same:
+	1) background: black; (SHA-1: 88a67d4c),
+	2) margin: 20px; (SHA-1: 2796e2ea).
+
+6. First bad commit: 385f3840c78cec6805b999d2ba76ee61b1d6633e
