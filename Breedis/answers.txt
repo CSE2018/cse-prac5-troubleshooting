@@ -1,0 +1,12 @@
+1. 125 commits have been commited
+
+2. 468f9e1f
+
+3. 4 different commits (468f9e1f, bcdb5a54, 343f8655, df8b564)
+
+4.  In my case two lines have been changed
+88a67d4c (marten            2019-05-06 18:40:21 +0300  4)   background: black;
+2796e2ea (marten            2019-05-06 18:39:17 +0300  8)   margin: 20px;
+
+5.
+	87964f5c57170cfd07418a981cd491491cc063dd is where the square wasn't black anymore
