@@ -1,0 +1,5 @@
+120 commits
+468f9e1f
+4 different commits
+There is actually two lines changed: 4 and 8
+87964f5c57170cfd07418a981cd491491cc063dd is the first bad commit 
