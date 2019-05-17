@@ -1,0 +1,11 @@
+1)  As of 2019.05.17 there are 118 commits
+
+2) Hash of a commit that changed title in index.html is 468f9e1f
+
+3) I can see 4 commits
+
+4) Somebody called "Marten" has changed lines 4 and 8 and all the other lines have remained untouched, so answer is 4 and 8? Right answer was probably either line 4 or 8.
+
+5) First bad commit is with hash 87964f5c...
+
+6)
