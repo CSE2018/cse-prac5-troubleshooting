@@ -1,0 +1,6 @@
+131
+468f9e1fd20e5e591e9265dd04056d7a6399cb12
+4
+88a67d4c (marten            2019-05-06 18:40:21 +0300  4)   background: black;
+2796e2ea (marten            2019-05-06 18:39:17 +0300  8)   margin: 20px;
+e4856862d6a117b89ad13457b4a74eba9f9fcb19 is the first bad commit
